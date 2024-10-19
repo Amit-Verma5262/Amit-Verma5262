@@ -1,7 +1,7 @@
-[![MasterHead](https://drive.google.com/file/d/1f0syT9aaKQy6nud0HYHwZ1cPUjTPeCJN/view?usp=sharing)]
+[![MasterHead](https://drive.google.com/file/d/1f0syT9aaKQy6nud0HYHwZ1cPUjTPeCJN/view?usp=sharing.gif)]
 <h1 align="center">Hi 👋, I'm Amit Verma</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0f1yhR-tQM7S6nsaGjIbge&ust=1729451262164000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCRjJuSm4kDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0f1yhR-tQM7S6nsaGjIbge&ust=1729451262164000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCRjJuSm4kDFQAAAAAdAAAAABAE.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-verma5262&label=Profile%20views&color=0e75b6&style=flat" alt="amit-verma5262" /> </p>
 
