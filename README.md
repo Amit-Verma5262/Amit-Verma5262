@@ -6,27 +6,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-verma5262&label=Profile%20views&color=0e75b6&style=flat" alt="amit-verma5262" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit-verma5262" alt="amit-verma5262" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/amitverma7062" target="blank"><img src="https://img.shields.io/twitter/follow/amitverma7062?logo=twitter&style=for-the-badge" alt="amitverma7062" /></a> </p>
 
 - 🔭 I’m currently working on [Event Mangement Webapp](https://github.com/Amit-Verma5262/Event_Mangement.git)
 
-- 🌱 I’m currently learning **Next.js React.js**
-
-- 👯 I’m looking to collaborate on [Promptify](https://promptify-amit-verma-s-projects.vercel.app/)
-
-- 🤝 I’m looking for help with [Job-Search](https://jobsearchui-git-main-amit-verma-s-projects.vercel.app/)
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-mu-liard-12.vercel.app/](https://portfolio-mu-liard-12.vercel.app/)
 
 - 📝 I regularly write articles on [https://www.geeksforgeeks.org/community/profile/anonymous5262/](https://www.geeksforgeeks.org/community/profile/anonymous5262/)
 
-- 💬 Ask me about **Frontend,Backend, DSA**
-
 - 📫 How to reach me **amitverma5262.02@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-7VpKC7sNT48VgALxOuTFddLc9kiw62g/view?usp=drive_link](https://drive.google.com/file/d/1-7VpKC7sNT48VgALxOuTFddLc9kiw62g/view?usp=drive_link)
+
+- ⚡ Fun fact **I'm not funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,4 +38,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-verma5262&show_icons=true&locale=en&layout=compact" alt="amit-verma5262" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amit-verma5262&show_icons=true&locale=en" alt="amit-verma5262" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit-verma5262&" alt="amit-verma5262" /></p>
+
 
