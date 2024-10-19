@@ -1,8 +1,7 @@
-![MasterHead](https://drive.google.com/uc?export=view&id=1f0syT9aaKQy6nud0HYHwZ1cPUjTPeCJN)
+![MasterHead](https://drive.google.com/uc?export=view&id=1fBG56hqbq4ZqCf-lztzcqjxEnQ7Y29bq)
 
 <h1 align="center">Hi 👋, I'm Amit Verma</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1Hgu7CFSqnoRaBs_TXwVkTytDwSunoL5C" alt="My Image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-verma5262&label=Profile%20views&color=0e75b6&style=flat" alt="amit-verma5262" /> </p>
@@ -45,3 +44,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-verma5262&show_icons=true&locale=en&layout=compact" alt="amit-verma5262" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amit-verma5262&show_icons=true&locale=en" alt="amit-verma5262" /></p>
+
