@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Amit Verma</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="center" alt="MasterHead" src="[https://drive.google.com/uc?export=view&id=1f0syT9aaKQy6nud0HYHwZ1cPUjTPeCJN](https://drive.google.com/file/d/1Hgu7CFSqnoRaBs_TXwVkTytDwSunoL5C/view?usp=sharing)" />
-
+<img src="https://drive.google.com/uc?export=view&id=1Hgu7CFSqnoRaBs_TXwVkTytDwSunoL5C" alt="My Image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-verma5262&label=Profile%20views&color=0e75b6&style=flat" alt="amit-verma5262" /> </p>
 
