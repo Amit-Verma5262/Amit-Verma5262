@@ -3,25 +3,6 @@
 <h1 align="center">Hi 👋, I'm Amit Verma</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<!-- MasterHead Banner -->
-<img id="masterhead-banner" align="center" alt="MasterHead" src="https://drive.google.com/uc?export=view&id=1f0syT9aaKQy6nud0HYHwZ1cPUjTPeCJN" />
-
-<!-- Custom CSS -->
-<style>
-  #masterhead-banner {
-    width: 100%;   /* Makes the image take full width */
-    height: auto;  /* Keeps the image aspect ratio intact */
-    display: block; /* Removes any gap under the image */
-    margin: 0 auto; /* Centers the image horizontally */
-  }
-
-  /* Optional: To remove padding/margin from the body */
-  body, html {
-    padding: 0;
-    margin: 0;
-  }
-</style>
-
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1Hgu7CFSqnoRaBs_TXwVkTytDwSunoL5C" alt="My Image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-verma5262&label=Profile%20views&color=0e75b6&style=flat" alt="amit-verma5262" /> </p>
