@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Web developer and Tech Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1Hgu7CFSqnoRaBs_TXwVkTytDwSunoL5C" alt="My Image">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-verma5262&label=Profile%20views&color=0e75b6&style=flat" alt="amit-verma5262" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-verma5262&base=5000&label=Profile%20views&color=0e75b6&style=flat" alt="amit-verma5262" /> </p>
 
 <p align="left"> <a href="https://twitter.com/amitverma7062" target="blank"><img src="https://img.shields.io/twitter/follow/amitverma7062?logo=twitter&style=for-the-badge" alt="amitverma7062" /></a> </p>
 
