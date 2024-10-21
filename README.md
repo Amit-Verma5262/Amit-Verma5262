@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-verma5262&base=5000&label=Profile%20views&color=0e75b6&style=flat" alt="amit-verma5262" /> </p>
 
-<p align="left"> <a href="https://twitter.com/amitverma7062" target="blank"><img src="https://img.shields.io/twitter/follow/amitverma7062?logo=twitter&style=for-the-badge" alt="amitverma7062" /></a> </p>
+<p align="left"> <a href="https://twitter.com/amitverma7062" target="_blank"><img src="https://img.shields.io/twitter/follow/amitverma7062?logo=twitter&style=for-the-badge" alt="amitverma7062" /></a> </p>
 
 - 🔭 I’m currently working on [Event Mangement Webapp](https://github.com/Amit-Verma5262/Event_Mangement.git)
 
@@ -24,12 +24,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/amitverma7062" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amitverma7062" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amit-verma-1b5677249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-verma-1b5677249" height="30" width="40" /></a>
-<a href="https://instagram.com/_amitverma5262_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_amitverma5262_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/amit_v5262" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amit_v5262" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amit_v5262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amit_v5262" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anonymous5262/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anonymous5262/profile" height="30" width="40" /></a>
+<a href="https://twitter.com/amitverma7062" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amitverma7062" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amit-verma-1b5677249" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-verma-1b5677249" height="30" width="40" /></a>
+<a href="https://instagram.com/_amitverma5262_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_amitverma5262_" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/amit_v5262" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amit_v5262" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/amit_v5262" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amit_v5262" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/anonymous5262/profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anonymous5262/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
