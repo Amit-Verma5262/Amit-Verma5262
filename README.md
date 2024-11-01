@@ -27,9 +27,6 @@
 <a href="https://twitter.com/amitverma7062" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amitverma7062" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amit-verma-1b5677249" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-verma-1b5677249" height="30" width="40" /></a>
 <a href="https://instagram.com/_amitverma5262_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_amitverma5262_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/amitverma52620" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amit_v5262" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amit_v5262" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amit_v5262" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anonymous5262/profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anonymous5262/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
