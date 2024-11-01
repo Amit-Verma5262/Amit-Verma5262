@@ -41,4 +41,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amit-verma5262&" alt="amit-verma5262" /></p>
 
+[![An image of @amitverma5262's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amitverma5262)](https://holopin.io/@amitverma5262)
+
 
