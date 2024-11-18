@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Event Mangement Webapp](https://github.com/Amit-Verma5262/Event_Mangement.git)
 
-- 🌱 I’m currently learning **Kafka and RabbitMQ**
+- 🌱 I’m currently learning **Kafka and Redis**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-mu-liard-12.vercel.app/](https://portfolio-mu-liard-12.vercel.app/)
 
