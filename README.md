@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/uc?export=view&id=1Mz2mvPl34hARtMSwoph5-Y3r-qqZX0S6)
+[//]:#![MasterHead](https://drive.google.com/uc?export=view&id=1Mz2mvPl34hARtMSwoph5-Y3r-qqZX0S6)
 
 <h1 align="center">Hi 👋, I'm Amit Verma</h1>
 <h3 align="center">A passionate Web developer and Tech Enthusiast</h3>
