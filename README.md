@@ -20,7 +20,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-7VpKC7sNT48VgALxOuTFddLc9kiw62g/view?usp=drive_link](https://drive.google.com/file/d/1-7VpKC7sNT48VgALxOuTFddLc9kiw62g/view?usp=drive_link)
 
-- ⚡ Fun fact **I'm not funny**
 
 <h2 align="left">📱Connect with me:</h2>
 <p align="left">
