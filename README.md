@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/amitverma7062" target="_blank"><img src="https://img.shields.io/twitter/follow/amitverma7062?logo=twitter&style=for-the-badge" alt="amitverma7062" /></a> </p>
 
-- 🔭 I’m currently working on [Event Mangement Webapp](https://github.com/Amit-Verma5262/Event_Mangement.git)
+- 🔭 I’m currently working on [Inventory Mangement Webapp](https://github.com/Amit-Verma5262/Event_Mangement.git)
 
 - 🌱 I’m currently learning **apache kafka and Redis**
 
